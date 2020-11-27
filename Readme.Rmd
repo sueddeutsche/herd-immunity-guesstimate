@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-This little projects tries to make an educated guess on the time window to reach herd immunity (and partial immunity) against Sars-Cov-2 in Germany through vaccination. The results were published in Süddeutsche Zeitung on November 27th, 20220 and can be found [here](https://sz.de/1.5130292). All sources are listed at the end.
+This little projects tries to make an educated guess on the time window to reach herd immunity (and partial immunity) against Sars-Cov-2 in Germany through vaccination. The results were published on Süddeutsche Zeitung on November 27th, 2020 and can be found [here](https://sz.de/1.5130292). All sources are listed at the end.
 
 ### Methods
 
