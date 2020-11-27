@@ -129,7 +129,7 @@ convicted. \[10\]
 
 ### Contact
 
-Christian Endt, [@c\_endt](https://twitter.com/c_endt), c.endt \[ätt\]
+Christian Endt, [@c\_endt](https://twitter.com/c_endt), c.endt \[ät\]
 sz.de
 
 1.  <https://kitmetricslab.github.io/forecasthub/forecast>
