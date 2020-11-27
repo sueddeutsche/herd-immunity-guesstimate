@@ -76,7 +76,7 @@ kiz_monthly <- 44 * 750 * 30 / vaccine_shots * vaccine_efficency
 nrw_monthly <- .1 * nrw_pop / vaccine_shots * vaccine_efficency
 ```
 
-### Path to herd immunity
+### Results
 
 We use the estimates of monthly capacities to predict how many months it
 will take to reach partial and full herd immunity.
@@ -106,6 +106,8 @@ round((bw_pop * partial_herd_immunity - bw_infected - ziz_monthly) / (ziz_monthl
 ```
 
     ## [1] 4.8
+
+![](https://datawrapper.dwcdn.net/jdxn1/full.png)
 
 Full herd immunity in NRW with low initial capacities
 
