@@ -2,7 +2,7 @@
 title: "Herd Immunity Guesstimate"
 author: '@cendt'
 date: "27 11 2020"
-output: html_document
+output: rmarkdown::github_document
 ---
 
 ```{r setup, include=FALSE}
