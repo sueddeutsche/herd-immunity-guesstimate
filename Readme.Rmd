@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-This little projects tries to make an educated guess on the time window to reach herd immunity (and partial immunity) against Sars-Cov-2 in Germany through vaccination. The results were published on Süddeutsche Zeitung on November 27th, 2020 and can be found [here](https://sz.de/1.5130292). All sources are listed at the end.
+This little project tries to make an educated guess on the time window to reach herd immunity (and partial immunity) against Sars-Cov-2 in Germany through vaccination. The results were published on Süddeutsche Zeitung on November 27th, 2020 and can be found [here](https://sz.de/1.5130292). All sources are listed at the end.
 
 ### Methods
 
@@ -90,7 +90,7 @@ round((nrw_pop * full_herd_immunity - nrw_infected) / nrw_monthly,1)
 
 If we assume that capacities in NRW can grow during 2021, our results for Ba-Wü and NRW seem to be similar enough to use them as a rough estimate for Germany in total. But of course, we do not know. This whole thing is a very rough estimate with lots of uncertainties.
 
-Also, the sucess of vaccination program depends on enough willing people to get a shot or two. Avaiable opinion polling suggests there might be enough volunteers in Germany, but some dont-know-yets remain to be convicted. ^[https://www.zdf.de/nachrichten/politik/politbarometer-teil-shutdown-100.html?slide=20201126-0228-47-1003]
+Also, the sucess of vaccination program depends on enough willing people to get a shot or two. Avaiable opinion polling suggests there might be enough volunteers in Germany, but some dont-know-yets remain to be convinced. ^[https://www.zdf.de/nachrichten/politik/politbarometer-teil-shutdown-100.html?slide=20201126-0228-47-1003]
 
 ### Contact
 

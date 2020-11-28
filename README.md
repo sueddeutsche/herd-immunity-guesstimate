@@ -3,7 +3,7 @@ Herd Immunity Guesstimate
 @cendt
 27 11 2020
 
-This little projects tries to make an educated guess on the time window
+This little project tries to make an educated guess on the time window
 to reach herd immunity (and partial immunity) against Sars-Cov-2 in
 Germany through vaccination. The results were published on Süddeutsche
 Zeitung on November 27th, 2020 and can be found
@@ -127,7 +127,7 @@ thing is a very rough estimate with lots of uncertainties.
 Also, the sucess of vaccination program depends on enough willing people
 to get a shot or two. Avaiable opinion polling suggests there might be
 enough volunteers in Germany, but some dont-know-yets remain to be
-convicted. \[10\]
+convinced. \[10\]
 
 ### Contact
 
